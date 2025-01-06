@@ -1,5 +1,3 @@
-// Bash shell project; William Miyamoto CS444 November 2024 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
